@@ -1,0 +1,32 @@
+ [
+    {
+      "Name": "Rahul Sharma",
+      "Email": "rahul.sharma@example.com",
+      "Subject": "Inquiry about services",
+      "Message": "Hello, I would like to know more about the services your company offers."
+    },
+    {
+      "Name": "Priya Verma",
+      "Email": "priya.verma@example.com",
+      "Subject": "Website issue",
+      "Message": "I am facing an issue while submitting the contact form on your website."
+    },
+    {
+      "Name": "Amit Singh",
+      "Email": "amit.singh@example.com",
+      "Subject": "Support request",
+      "Message": "Please assist me with resetting my account password."
+    },
+    {
+      "Name": "Neha Gupta",
+      "Email": "neha.gupta@example.com",
+      "Subject": "Feedback",
+      "Message": "Your website is very user-friendly. Keep up the great work!"
+    },
+    {
+      "Name": "Rohan Mehta",
+      "Email": "rohan.mehta@example.com",
+      "Subject": "Partnership opportunity",
+      "Message": "I would like to discuss a potential partnership with your organization."
+    }
+  ]
